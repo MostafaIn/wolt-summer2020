@@ -13,6 +13,7 @@ I have done this assignment for Wolt summer 2020 Internship (Front-end) with usi
 
 
  ## INSTALL 
+    $ git clone https://github.com/MostafaIn/wolt-summer2020.git
     $ cd wolt-assignment
     $ npm install
 
